@@ -1,0 +1,6 @@
+node_modules/
+.expo/*
+npm-debug.*
+utils/config.js
+./vscode/
+assets/
